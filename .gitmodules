@@ -1,3 +1,6 @@
 [submodule "random-qoute"]
 	path = random-qoute
 	url = https://github.com/AhmedBedeir/random-qoute
+[submodule "markdown-preview"]
+	path = markdown-preview
+	url = https://github.com/AhmedBedeir/markdown-preview
