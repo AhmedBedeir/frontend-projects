@@ -7,3 +7,6 @@
 [submodule "drum-machine"]
 	path = drum-machine
 	url = https://github.com/AhmedBedeir/drum-machine
+[submodule "calculator"]
+	path = calculator
+	url = https://github.com/AhmedBedeir/calculator
